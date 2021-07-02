@@ -1,1 +1,2 @@
-# GitPractice
+Hello this my repository..
+I learning How to use Git....
